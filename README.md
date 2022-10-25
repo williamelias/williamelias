@@ -7,10 +7,13 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a c
 - 📫 How to contact me: [williameliasalves@gmaill.com](mailto:williameliasalves@gmail.com)
 - 📝[CV](put here)
 
-**Languages and Tools:**  
+**Languages and Tools:** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://static.djangoproject.com/img/logos/django-logo-positive.png"></code>
+<code><img height="20" src="https://www.django-rest-framework.org/img/logo.png"></code>
+<code><img height="20" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png"></code>
 
 📊 **What Lanugages do I Write Most Often?:**
 
