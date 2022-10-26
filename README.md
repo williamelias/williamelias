@@ -7,6 +7,7 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a c
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williameliasalves@gmail.com)](mailto:williameliasalvesa@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciopolato/)](https://www.linkedin.com/in/william-elias-101694102/)
 
+##
 
 **Languages and Tools:** 
 
@@ -19,15 +20,20 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a c
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/79/DigitalOcean_logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg"></code>
 
+##
 
 📊 **What Lanugages do I Write Most Often?:**
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivsarvepalli&layout=compact&exclude_repo=github-readme-stats,rajivsarvepalli.github.io,rajivking6.github.io" alt="rajivsarvepalli" />
 
+##
 
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=williamelias&show_icons=true&theme=tokyonight&count_private=true" alt="williamelias" />
  
- 
+##
+
+**wakatime stats**
+
 [![william's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@williamelias)](https://github.com/anuraghazra/github-readme-stats)
