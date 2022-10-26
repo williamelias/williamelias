@@ -2,10 +2,11 @@
 
 Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a current undergraduate student interested in DevOps.
 
-**Personal Links:**
+**Personal Links (How to contact me):**
 
-- 📫 How to contact me: [williameliasalves@gmaill.com](mailto:williameliasalves@gmail.com)
-- 📝[CV](put here)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williameliasalves@gmail.com)](mailto:pedro.v.siqueira@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciopolato/)](https://www.linkedin.com/in/william-elias-101694102/)
+
 
 **Languages and Tools:** 
 
@@ -17,11 +18,12 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a c
 
 📊 **What Lanugages do I Write Most Often?:**
 
-
-
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivsarvepalli&layout=compact&exclude_repo=github-readme-stats,rajivsarvepalli.github.io,rajivking6.github.io" alt="rajivsarvepalli" />
 
 
 📈 My GitHub Stats
 
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=williamelias&show_icons=true&theme=tokyonight&count_private=true" alt="williamelias" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=williamelias&show_icons=true&theme=tokyonight&count_private=true" alt="williamelias" />
+ 
+ 
+[![william's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@williamelias)](https://github.com/anuraghazra/github-readme-stats)
