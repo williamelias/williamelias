@@ -15,6 +15,10 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a c
 <code><img height="20" src="https://static.djangoproject.com/img/logos/django-logo-positive.png"></code>
 <code><img height="20" src="https://www.django-rest-framework.org/img/logo.png"></code>
 <code><img height="20" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/79/DigitalOcean_logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg"></code>
+
 
 📊 **What Lanugages do I Write Most Often?:**
 
