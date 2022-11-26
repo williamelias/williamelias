@@ -36,4 +36,4 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a c
 
 **wakatime stats**
 
-[![william's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=williameliasalves)](https://github.com/anuraghazra/github-readme-stats)
+[![william's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@williameliasalves)](https://github.com/anuraghazra/github-readme-stats)
