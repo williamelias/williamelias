@@ -34,8 +34,4 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a c
  
 ##
 
-**wakatime stats**
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@williameliasalves)](https://github.com/anuraghazra/github-readme-stats)
-
-[![wakatime](https://wakatime.com/badge/user/83c4cf8f-3dc5-4fc8-9190-ce6550752710.svg)](https://wakatime.com/@83c4cf8f-3dc5-4fc8-9190-ce6550752710)
+[![Week wakatime](https://wakatime.com/badge/user/83c4cf8f-3dc5-4fc8-9190-ce6550752710.svg)](https://wakatime.com/@83c4cf8f-3dc5-4fc8-9190-ce6550752710)
