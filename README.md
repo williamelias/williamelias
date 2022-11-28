@@ -34,4 +34,6 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a c
  
 ##
 
+**Week code**:
+ 
 [![Week wakatime](https://wakatime.com/badge/user/83c4cf8f-3dc5-4fc8-9190-ce6550752710.svg)](https://wakatime.com/@83c4cf8f-3dc5-4fc8-9190-ce6550752710)
