@@ -24,7 +24,7 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a c
 
 📊 **What Lanugages do I Write Most Often?:**
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamelias&layout=compact&exclude_repo=github-readme-stats,rajivsarvepalli.github.io,rajivking6.github.io" alt="rajivsarvepalli" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamelias&layout=compact" alt="williamelias" />
 
 ##
 
