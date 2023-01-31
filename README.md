@@ -34,6 +34,12 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a c
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=williamelias&show_icons=true&theme=tokyonight&count_private=true" alt="williamelias" />
+
+ 
+##
+ 
+  
+![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=williamelias&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
  
 ##
 
