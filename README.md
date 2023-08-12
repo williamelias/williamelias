@@ -2,10 +2,6 @@
 
 Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a current undergraduate student interested in DevOps.
 
-**Personal Links (How to contact me):**
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williameliasalves@gmail.com)](mailto:williameliasalvesa@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciopolato/)](https://www.linkedin.com/in/william-elias-101694102/)
 
 ##
 
