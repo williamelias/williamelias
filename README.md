@@ -32,7 +32,7 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a g
 ##
  
   
-![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=williamelias&theme=tokyo-night&area=true&hide_border=true)
+![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=williamelias&theme=tokyo-night&area=true)
  
 ##
 
