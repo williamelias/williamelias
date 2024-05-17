@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a current undergraduate student interested in backend developer and I'm mobile enthusiast.
+Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a graduate and forever student interested in backend developer and DevOps enthusiast.
 
 
 ##
