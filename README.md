@@ -26,7 +26,7 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a g
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=williamelias&show_icons=true&theme=tokyonight&count_private=true" alt="williamelias" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=williamelias&show_icons=true" alt="williamelias" />
 
  
 ##
