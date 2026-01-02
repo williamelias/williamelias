@@ -20,22 +20,20 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a g
 
 📊 **What Lanugages do I Write Most Often?:**
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamelias&layout=compact" alt="williamelias" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
 📈 My GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=williamelias&show_icons=true" alt="williamelias" />
-
- 
-##
- 
   
-![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=williamelias&theme=tokyo-night&area=true&hideborder=false)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=williamelias&theme=dracula)](https://github.com/williamelias/github-readme-activity-graph)
  
 ##
 
 **Week code**:
  
 [![Week wakatime](https://wakatime.com/badge/user/83c4cf8f-3dc5-4fc8-9190-ce6550752710.svg)](https://wakatime.com/@83c4cf8f-3dc5-4fc8-9190-ce6550752710)
+
+
+![](https://komarev.com/ghpvc/?username=williamelias&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto-b445b019b/)
