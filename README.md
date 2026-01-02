@@ -15,12 +15,7 @@ Hi, I'm [William Elias Alves](https://github.com/williamelias/williamelias), a g
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/79/DigitalOcean_logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg"></code>
 <code><img height="22" src="https://user-images.githubusercontent.com/2752551/30404912-d5781a00-989d-11e7-8d25-5ebca177326a.png"></code>
-
-##
-
-📊 **What Lanugages do I Write Most Often?:**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
 ##
 
